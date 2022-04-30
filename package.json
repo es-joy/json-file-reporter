@@ -1,11 +1,13 @@
 {
-  "name": "@mochajs/json-file-reporter",
+  "name": "@es-joy/json-file-reporter",
   "version": "1.3.0",
-  "author": {
-    "name": "Munieru",
-    "url": "https://github.com/munierujp"
-  },
-  "contributors": [],
+  "author": "Brett Zamir",
+  "contributors": [
+    {
+      "name": "Munieru",
+      "url": "https://github.com/munierujp"
+    }
+  ],
   "description": "JSON file reporter for Mocha",
   "homepage": "https://github.com/mocha-community/json-file-reporter",
   "bugs": {

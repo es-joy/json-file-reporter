@@ -1,4 +1,4 @@
 {
   "spec": "test/**/*.spec.js",
-  "reporter": "@mochajs/json-file-reporter"
+  "reporter": "@es-joy/json-file-reporter"
 }
