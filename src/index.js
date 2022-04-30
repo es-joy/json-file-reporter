@@ -65,7 +65,7 @@ function Reporter (runner, options) {
 }
 
 function clean (test) {
-  var err = test.err || {}
+  let err = test.err || {}
   if (err instanceof Error) {
     err = errorJSON(err)
   }
