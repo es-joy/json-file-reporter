@@ -1,5 +1,11 @@
 # CHANGES for `json-file-reporter`
 
+## 1.4.0
+
+- fix: add Mocha 10 to `peerDependencies`
+- chore: switch to pnpm
+- chore: use proper `eslint-plugin-n` for `eslint-config-standard` update
+
 ## 1.3.1
 
 - fix: update `package-lock.json` in example directory
